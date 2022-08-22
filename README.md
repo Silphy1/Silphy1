@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Silphy1
+- 👋 Ello, I’m @Silphy
 - 👀 I’m interested in AI/UI & Robotics
 - 🌱 I’m currently learning C++
 - 📫 How to reach me ardinmoore@outlook.com
